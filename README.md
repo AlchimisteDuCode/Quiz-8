@@ -1,6 +1,6 @@
 # Quiz 8 – Zima Blue Inspired Design
 
-## 🎨 Part 1: Imaging Technique Inspiration
+##  Part 1: Imaging Technique Inspiration
 
 **Inspiration:** *Zima Blue* from *Love, Death & Robots*
 
@@ -13,7 +13,7 @@ The visual style of *Zima Blue* inspires me with its minimalist geometric shapes
 
 ---
 
-## 💻 Part 2: Coding Technique Exploration
+## Part 2: Coding Technique Exploration
 
 To bring the visual feeling of *Zima Blue* into my project, I plan to use `for` loops to draw a grid of rectangles and apply `lerpColor()` to gradually shift each block from dark navy to bright cyan. Combined with `setInterval()` or a state variable, this can animate a slow transition that feels calm and philosophical. Mouse interaction can trigger a rearrangement or color shift, reflecting the idea of returning to origin. This technique helps me simulate both the minimal aesthetic and the layered emotion of the original artwork using simple shapes and color logic.
 
